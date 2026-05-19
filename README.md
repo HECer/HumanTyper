@@ -4,8 +4,9 @@ HumanTyper is a modern desktop application built with Python and CustomTkinter t
 
 It is especially useful for **bypassing pasting restrictions** (e.g., in virtual machines, remote desktop environments, VNC, or strict terminal consoles) by sending the keystrokes one by one directly to the OS.
 
-![HumanTyper Screenshot](screenshot.png)
-*(Please place a screenshot of the app named `screenshot.png` in the root folder of the repository)*
+<p align="center">
+  <img src="assets/screenshot.png" alt="HumanTyper Screenshot" width="700"/>
+</p>
 
 ## ✨ Features
 
